@@ -1,5 +1,5 @@
 {
-    "name": "daun/template-engine-latte",
+    "name": "jmartsch/template-engine-latte",
     "type": "processwire-module",
     "extra": {
         "installer-name": "TemplateEngineLatte"
