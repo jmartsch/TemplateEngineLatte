@@ -5,13 +5,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![ProcessWire 3](https://img.shields.io/badge/ProcessWire-3.x-orange.svg)](https://github.com/processwire/processwire)
 
-A ProcessWire module adding [Latte](https://latte.nette.org/) to the [TemplateEngineFactory](https://github.com/wanze/TemplateEngineFactory).
+A ProcessWire module adding [Latte3](https://latte.nette.org/) to the [TemplateEngineFactory](https://github.com/wanze/TemplateEngineFactory).
 
 ## Requirements
 
 * ProcessWire `3.0` or newer
 * TemplateEngineFactory `2.0` or newer
-* PHP `7.1` or newer
+* PHP `8.1` or newer
 * Composer
 
 ## Installation
